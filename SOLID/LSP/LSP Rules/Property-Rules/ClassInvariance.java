@@ -9,7 +9,7 @@ class FoodOrder{
         this.cartTotal = cartTotal;
         this.foodItem = foodItem;    
     }
-    
+    2
     // class invariant (rule) - cartTotal >= 0
     public int getFinalTotal(){
         System.out.println("ORDER WITHOUT DISCOUNT (PARENT) .......");
